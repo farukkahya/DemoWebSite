@@ -1,0 +1,14 @@
+.avatar{
+    margin-top: 10px;
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+}
+.avatar-box{
+    text-align: center;
+}
+.footer-logo{
+    margin-top: 10px;
+    height: 87px;
+    width: 87px;
+}
